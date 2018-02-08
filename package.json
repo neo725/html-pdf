@@ -2,10 +2,10 @@
   "name": "html2pdf",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node app.js"
+    "dev": "node server.js"
   },
   "repository": {
     "type": "git",
