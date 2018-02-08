@@ -1,0 +1,24 @@
+{
+  "name": "html2pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thchang-sce@bitbucket.org/sce-brd/html2pdf.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/sce-brd/html2pdf#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "phantom-html-to-pdf": "^0.5.5",
+    "stream-length": "^1.0.2"
+  }
+}
